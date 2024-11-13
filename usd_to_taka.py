@@ -1,7 +1,7 @@
 
-taka = int(input("enter amount :"))
+usd = int(input("enter amount :"))
 def convert(n):
     return n * 126
-result = convert(taka)
+result = convert(usd)
 print(result)
 
